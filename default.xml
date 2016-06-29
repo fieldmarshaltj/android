@@ -425,6 +425,6 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="kernel/htc/evitareul" name="fieldmarshaltj/kernel_source" remote="github" revision="cm-10.2"/>
   <project path="device/htc/evitareul" name="fieldmarshaltj/evitareul" remote="github" revision="cm-10.2"/>
-  <project path="device/htc/evitareul-common" name="fieldmarshaltj/evitareul-common" remote="github" revision="cm-10.2"/>   
+  <project path="device/htc/evitareul-common" name="fieldmarshaltj/tegra3-common" remote="github" revision="cm-10.2"/>   
   <project path="vendor/htc/evitareul" name="fieldmarshaltj/vendor" remote="github" revision="cm-10.2"/> 
 </manifest>
